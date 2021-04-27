@@ -16,4 +16,5 @@ Some basic knowledge is suggested for understanding this work.
 
 ## Results
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-1.png" width="300" height="175" alt="1-1"/><br/>
+<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="300" height="175" alt="1-2"/><br/>
 
