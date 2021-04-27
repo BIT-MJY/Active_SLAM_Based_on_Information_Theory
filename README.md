@@ -27,3 +27,10 @@ Some basic knowledge is suggested for understanding this work.
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10--3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10-4.png" width="300" height="175">
 </div>
+
+# Authors
+Junyi Ma, Beijing Institute of Technology
+
+# Acknowledgement
+* Source Code from [Robust Field Autonomy Lab](https://github.com/RobustFieldAutonomyLab/turtlebot_exploration_3d)
+* [Information-Theoretic Exploration with Bayesian Optimization](https://personal.stevens.edu/~benglot/Bai_Wang_Chen_Englot_IROS2016_AcceptedVersion.pdf)
