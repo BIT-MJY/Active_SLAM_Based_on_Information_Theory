@@ -1,5 +1,5 @@
 # Active-SLAM-Based-on-Information-Theory
-Information Theoretic Exploration with GP and BO
+Information Theoretic Exploration with Gaussian Process (GP) and Bayesian Optimization (BO)
 
 ## Overview
 Here is a simulation of infomation-theoretic exploration with python. ROS-based method is released by **Robust Field Autonomy Lab**. To make the principle and mechanism more clear for active slamer, I reproduce it with python and revise some functions. 
