@@ -16,6 +16,7 @@ Some basic knowledge is suggested for understanding this work.
 
 ## Results
 Picture
+<div align=center>
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/3-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/3-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/3-4.png" width="300" height="175">
@@ -26,6 +27,7 @@ Picture
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/8-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/8-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/8-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/9-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10--3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/10-4.png" width="300" height="175">
+</div>
 
 # Authors
 Junyi Ma, Beijing Institute of Technology
