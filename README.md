@@ -11,10 +11,8 @@ Some basic knowledge is suggested for understanding this work.
 * Information-Theoretic Exploration with Bayesian Optimization: https://personal.stevens.edu/~benglot/Bai_Wang_Chen_Englot_IROS2016_AcceptedVersion.pdf
 
 ## Source Code
-* By notebook
+* By jupyter notebook
 * By colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OSsl_YjlG2MekRVJ5ZznjU-AP3EYOaqM?usp=sharing)
-
-
 
 ## Results
 
