@@ -1,4 +1,4 @@
-# Active-SLAM-Based-on-Information-Theory
+# Active SLAM Based on Information Theory
 Information Theoretic Exploration with Gaussian Process (GP) and Bayesian Optimization (BO)
 
 ## Overview
