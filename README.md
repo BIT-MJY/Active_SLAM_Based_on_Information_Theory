@@ -15,7 +15,7 @@ Some basic knowledge is suggested for understanding this work.
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing)
 
 ## Results
-Picture
+3 pictures from each step. The first picture illustrates the candidates. The second picture illustrates the top 5. The third picture illustrates the chosen next location and its receptive field. 
 <div align=center>
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-4.png" width="300" height="175">
 <img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-2.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-3.png" width="300" height="175"><img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/2-4.png" width="300" height="175">
