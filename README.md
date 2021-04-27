@@ -12,7 +12,7 @@ Some basic knowledge is suggested for understanding this work.
 
 ## Source Code
 * [By jupyter notebook](https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/src/Active%20SLAM%20based%20on%20MI.ipynb)
-* By colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing)
 
 ## Results
 
