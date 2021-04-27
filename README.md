@@ -12,7 +12,8 @@ Some basic knowledge is suggested for understanding this work.
 
 ## Source Code
 * By notebook
-* By colab: [![Open In Colab](https://colab.research.google.com/drive/1OSsl_YjlG2MekRVJ5ZznjU-AP3EYOaqM?usp=sharing)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+* By colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OSsl_YjlG2MekRVJ5ZznjU-AP3EYOaqM?usp=sharing)
+
 
 
 ## Results
