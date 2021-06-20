@@ -11,7 +11,7 @@ Some basic knowledge is suggested for understanding this work.
 * Information-Theoretic Exploration with Bayesian Optimization: https://personal.stevens.edu/~benglot/Bai_Wang_Chen_Englot_IROS2016_AcceptedVersion.pdf
 
 ## Source Code
-* [Jupyter Notebook](https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/src/Active%20SLAM%20based%20on%20MI.ipynb)
+* [Jupyter Notebook](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory/blob/master/src/Active_SLAM_based_on_MI.ipynb)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing)
 
 ## Results
